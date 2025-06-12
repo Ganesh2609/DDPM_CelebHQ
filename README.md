@@ -39,7 +39,7 @@ You can find the detailed implementation in `model.py` and `model_utils.py`.
 ### Diffusion Process Video
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/Ganesh2609/DDPM_CelebHQ/main/Results/video_2.mp4" width="512" controls autoplay loop muted>
+  <video src="https://github.com/user-attachments/assets/466f8070-5d4d-49aa-8ecc-f99911ac1c88" width="512" controls autoplay loop muted>
 </p>
 
 ### Generated Image Samples Over Training Epochs
