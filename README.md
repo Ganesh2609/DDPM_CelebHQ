@@ -21,6 +21,12 @@ This project is an implementation of a Denoising Diffusion Probabilistic Model (
 
 This repository provides a complete pipeline for training a DDPM on the CelebA-HQ dataset and generating new images. The core idea behind DDPMs is to reverse a forward diffusion process that gradually adds Gaussian noise to an image, until it becomes pure noise. The model learns to predict the noise at each timestep, and by iteratively subtracting the predicted noise, we can generate a clean image from a random noise vector.
 
+### Diffusion Process Video
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/466f8070-5d4d-49aa-8ecc-f99911ac1c88" width="512" controls autoplay loop muted>
+</p>
+
 ## Model Architecture
 
 The model architecture is based on a U-Net, which is a popular choice for image-to-image tasks due to its encoder-decoder structure with skip connections. This allows the model to capture both high-level and low-level features effectively.
@@ -35,12 +41,6 @@ Key components of the architecture include:
 You can find the detailed implementation in `model.py` and `model_utils.py`.
 
 ## Results
-
-### Diffusion Process Video
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/466f8070-5d4d-49aa-8ecc-f99911ac1c88" width="512" controls autoplay loop muted>
-</p>
 
 ### Generated Image Samples Over Training Epochs
 
