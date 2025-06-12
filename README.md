@@ -2,21 +2,6 @@
 
 This project is an implementation of a Denoising Diffusion Probabilistic Model (DDPM) for generating high-quality celebrity faces. The model is trained on the CelebA-HQ dataset and utilizes a U-Net architecture with attention mechanisms to progressively denoise an image from pure noise to a clean, realistic face.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-  - [Diffusion Process Video](#diffusion-process-video)
-  - [Generated Image Samples Over Training Epochs](#generated-image-samples-over-training-epochs)
-- [Dataset](#dataset)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-  - [Training the Model](#training-the-model)
-  - [Generating a Diffusion Video](#generating-a-diffusion-video)
-- [Training Logs](#training-logs)
-- [Project Structure](#project-structure)
-
 ## Overview
 
 This repository provides a complete pipeline for training a DDPM on the CelebA-HQ dataset and generating new images. The core idea behind DDPMs is to reverse a forward diffusion process that gradually adds Gaussian noise to an image, until it becomes pure noise. The model learns to predict the noise at each timestep, and by iteratively subtracting the predicted noise, we can generate a clean image from a random noise vector.
