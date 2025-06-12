@@ -1,10 +1,10 @@
 # Denoising Diffusion Probabilistic Model for CelebA-HQ
 
-This project is an implementation of a Denoising Diffusion Probabilistic Model (DDPM) for generating high-quality celebrity faces. The model is trained on the CelebA-HQ dataset and utilizes a U-Net architecture with attention mechanisms to progressively denoise an image from pure noise to a clean, realistic face.
-
 <p align="center">
   <video src="https://github.com/user-attachments/assets/466f8070-5d4d-49aa-8ecc-f99911ac1c88" width="512" controls autoplay loop muted>
 </p>
+
+This project is an implementation of a Denoising Diffusion Probabilistic Model (DDPM) for generating high-quality celebrity faces. The model is trained on the CelebA-HQ dataset and utilizes a U-Net architecture with attention mechanisms to progressively denoise an image from pure noise to a clean, realistic face.
 
 ## Table of Contents
 
