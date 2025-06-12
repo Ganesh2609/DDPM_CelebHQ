@@ -1,0 +1,72 @@
+2025-06-10 23:21:52,224 - INFO - Using device: cuda
+2025-06-10 23:21:52,251 - INFO - Starting training for 16 epochs from scratch.
+2025-06-10 23:21:52,252 - INFO - Target epochs: 16. Starting from epoch: 1
+2025-06-10 23:47:41,291 - INFO - Training Loss for Epoch 1: 0.0513
+2025-06-10 23:48:39,891 - INFO - Epoch 1 Average Testing Loss: 0.0377
+
+2025-06-10 23:48:40,232 - INFO - Best model (Epoch 1) saved to Train Data/Checkpoints/train 4 celeb\best_model.pth
+2025-06-10 23:48:40,551 - INFO - Checkpoint (Epoch 1) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_1.pth
+2025-06-11 00:13:57,551 - INFO - Training Loss for Epoch 2: 0.0377
+2025-06-11 00:14:20,462 - INFO - Epoch 2 Average Testing Loss: 0.0350
+
+2025-06-11 00:14:20,820 - INFO - Best model (Epoch 2) saved to Train Data/Checkpoints/train 4 celeb\best_model.pth
+2025-06-11 00:14:21,130 - INFO - Checkpoint (Epoch 2) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_2.pth
+2025-06-11 00:39:30,048 - INFO - Training Loss for Epoch 3: 0.0362
+2025-06-11 00:39:52,905 - INFO - Epoch 3 Average Testing Loss: 0.0352
+
+2025-06-11 00:39:53,459 - INFO - Checkpoint (Epoch 3) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_3.pth
+2025-06-11 01:05:02,285 - INFO - Training Loss for Epoch 4: 0.0345
+2025-06-11 01:05:24,746 - INFO - Epoch 4 Average Testing Loss: 0.0334
+
+2025-06-11 01:05:25,090 - INFO - Best model (Epoch 4) saved to Train Data/Checkpoints/train 4 celeb\best_model.pth
+2025-06-11 01:05:25,407 - INFO - Checkpoint (Epoch 4) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_4.pth
+2025-06-11 01:30:08,790 - INFO - Training Loss for Epoch 5: 0.0341
+2025-06-11 01:30:30,716 - INFO - Epoch 5 Average Testing Loss: 0.0356
+
+2025-06-11 01:30:31,048 - INFO - Checkpoint (Epoch 5) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_5.pth
+2025-06-11 01:55:09,341 - INFO - Training Loss for Epoch 6: 0.0340
+2025-06-11 01:55:31,183 - INFO - Epoch 6 Average Testing Loss: 0.0350
+
+2025-06-11 01:55:31,516 - INFO - Checkpoint (Epoch 6) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_6.pth
+2025-06-11 02:24:12,867 - INFO - Training Loss for Epoch 7: 0.0336
+2025-06-11 02:24:34,863 - INFO - Epoch 7 Average Testing Loss: 0.0346
+
+2025-06-11 02:24:35,203 - INFO - Checkpoint (Epoch 7) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_7.pth
+2025-06-11 02:49:13,284 - INFO - Training Loss for Epoch 8: 0.0337
+2025-06-11 02:49:35,307 - INFO - Epoch 8 Average Testing Loss: 0.0305
+
+2025-06-11 02:49:35,671 - INFO - Best model (Epoch 8) saved to Train Data/Checkpoints/train 4 celeb\best_model.pth
+2025-06-11 02:49:35,992 - INFO - Checkpoint (Epoch 8) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_8.pth
+2025-06-11 03:14:16,817 - INFO - Training Loss for Epoch 9: 0.0335
+2025-06-11 03:14:38,886 - INFO - Epoch 9 Average Testing Loss: 0.0314
+
+2025-06-11 03:14:39,243 - INFO - Checkpoint (Epoch 9) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_9.pth
+2025-06-11 03:39:19,637 - INFO - Training Loss for Epoch 10: 0.0342
+2025-06-11 03:39:41,639 - INFO - Epoch 10 Average Testing Loss: 0.0334
+
+2025-06-11 03:39:41,961 - INFO - Checkpoint (Epoch 10) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_10.pth
+2025-06-11 04:04:19,753 - INFO - Training Loss for Epoch 11: 0.0340
+2025-06-11 04:04:41,700 - INFO - Epoch 11 Average Testing Loss: 0.0332
+
+2025-06-11 04:04:42,040 - INFO - Checkpoint (Epoch 11) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_11.pth
+2025-06-11 04:29:22,392 - INFO - Training Loss for Epoch 12: 0.0333
+2025-06-11 04:29:44,385 - INFO - Epoch 12 Average Testing Loss: 0.0340
+
+2025-06-11 04:29:44,733 - INFO - Checkpoint (Epoch 12) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_12.pth
+2025-06-11 04:54:24,822 - INFO - Training Loss for Epoch 13: 0.0336
+2025-06-11 04:54:46,870 - INFO - Epoch 13 Average Testing Loss: 0.0345
+
+2025-06-11 04:54:47,214 - INFO - Checkpoint (Epoch 13) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_13.pth
+2025-06-11 05:19:27,018 - INFO - Training Loss for Epoch 14: 0.0331
+2025-06-11 05:19:49,142 - INFO - Epoch 14 Average Testing Loss: 0.0322
+
+2025-06-11 05:19:49,478 - INFO - Checkpoint (Epoch 14) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_14.pth
+2025-06-11 05:44:27,506 - INFO - Training Loss for Epoch 15: 0.0317
+2025-06-11 05:44:49,341 - INFO - Epoch 15 Average Testing Loss: 0.0303
+
+2025-06-11 05:44:49,804 - INFO - Best model (Epoch 15) saved to Train Data/Checkpoints/train 4 celeb\best_model.pth
+2025-06-11 05:44:50,131 - INFO - Checkpoint (Epoch 15) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_15.pth
+2025-06-11 06:09:35,320 - INFO - Training Loss for Epoch 16: 0.0319
+2025-06-11 06:09:57,201 - INFO - Epoch 16 Average Testing Loss: 0.0318
+
+2025-06-11 06:09:57,553 - INFO - Checkpoint (Epoch 16) saved to Train Data/Checkpoints/train 4 celeb\model_epoch_16.pth

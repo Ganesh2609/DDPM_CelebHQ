@@ -1,0 +1,12 @@
+2025-06-11 07:49:02,621 - INFO - Using device: cuda
+2025-06-11 07:49:02,651 - INFO - Starting training for 4 epochs from scratch.
+2025-06-11 07:49:02,651 - INFO - Target epochs: 4. Starting from epoch: 1
+2025-06-11 08:14:33,577 - INFO - Training Loss for Epoch 1: 0.0320
+2025-06-11 08:15:30,529 - INFO - Epoch 1 Average Testing Loss: 0.0204
+
+2025-06-11 08:15:30,875 - INFO - Best model (Epoch 1) saved to Train Data/Checkpoints/train 5 celeb\best_model.pth
+2025-06-11 08:15:31,179 - INFO - Checkpoint (Epoch 1) saved to Train Data/Checkpoints/train 5 celeb\model_epoch_1.pth
+2025-06-11 08:41:25,012 - INFO - Training Loss for Epoch 2: 0.0216
+2025-06-11 08:41:54,897 - INFO - Epoch 2 Average Testing Loss: 0.0211
+
+2025-06-11 08:41:55,364 - INFO - Checkpoint (Epoch 2) saved to Train Data/Checkpoints/train 5 celeb\model_epoch_2.pth
